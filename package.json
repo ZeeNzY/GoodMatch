@@ -1,0 +1,23 @@
+{
+  "name": "assessment",
+  "version": "1.0.0",
+  "description": "match percentage",
+  "main": "GoodMatch.js",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZeeNzY/GoodMatch.git"
+  },
+  "author": "Zeenzy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZeeNzY/GoodMatch/issues"
+  },
+  "homepage": "https://github.com/ZeeNzY/GoodMatch#readme"
+}
